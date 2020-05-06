@@ -5,4 +5,6 @@ Melanjutkan konten youtube Review
 - Menjelaskan desain produk
   *Material body yang digunakan
 - Menjekaskan performa produk
+  *Spesifikasi Hardware
+  *Menggunakan cinebench R15
 - Menjelaskan harga produk
